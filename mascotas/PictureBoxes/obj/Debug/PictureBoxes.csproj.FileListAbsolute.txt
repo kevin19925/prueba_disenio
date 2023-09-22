@@ -1,0 +1,10 @@
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\bin\Debug\PictureBoxes.exe.config
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\bin\Debug\PictureBoxes.exe
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\bin\Debug\PictureBoxes.pdb
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\obj\Debug\PictureBoxes.csproj.AssemblyReference.cache
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\obj\Debug\PictureBoxes.Form1.resources
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\obj\Debug\PictureBoxes.Properties.Resources.resources
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\obj\Debug\PictureBoxes.csproj.GenerateResource.cache
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\obj\Debug\PictureBoxes.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\obj\Debug\PictureBoxes.exe
+C:\Users\KEVIN\source\repos\mascotas\PictureBoxes\obj\Debug\PictureBoxes.pdb
